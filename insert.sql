@@ -2,10 +2,10 @@ insert into publisher(name , country) VALUES ('PHI','India');
 insert into publisher(name , country) VALUES ('Harper','USA');
 insert into publisher(name , country) VALUES ('GCP','USA');
 insert into publisher(name , country) VALUES ('Avery','USA');
-insert into publisher(name , country) VALUES ('Del Ray','UK');
+insert into publisher(name , country) VALUES ('Del Rey','UK');
 insert into publisher(name , country) VALUES ('Vintage','UK');
 
-insert into books(title, publisher) VALUES ('The C Programming language',1);
+insert into books(title, publisher) VALUES ('The C Programming Language',1);
 insert into books(title, publisher) VALUES ('The Go Programming Language',1);
 insert into books(title, publisher) VALUES ('The UNIX Programming Environment',1);
 insert into books(title, publisher) VALUES ('Cryptonomicon',2);
